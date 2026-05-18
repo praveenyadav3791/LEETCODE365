@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
