@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
