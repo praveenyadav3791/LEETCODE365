@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
