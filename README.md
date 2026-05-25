@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
 ## Linked List
 |  |
