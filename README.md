@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
+| [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
