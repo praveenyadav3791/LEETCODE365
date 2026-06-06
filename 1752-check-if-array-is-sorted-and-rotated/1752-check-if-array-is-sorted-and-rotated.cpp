@@ -1,17 +1,13 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-       int n = nums.size();
-       int reverse = 0;
-       for(int i = 0; i < n; i++){
-          if(nums[i] > nums[(i+1) %n]){
-                reverse++;
-          
-          }
-        
-              
+        int n = nums.size();
+        int x =0;
+        for(int i = 0; i < n ;i++){
+            if(nums[i] > nums[(i+1) % n]){
+                x++;
+            }
         }
-        
-     return reverse <=1;
+        return x <= 1;
     }
-};  
+};
