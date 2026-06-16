@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
+| [3612-process-string-with-special-operations-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
+| [3612-process-string-with-special-operations-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
