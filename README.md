@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
