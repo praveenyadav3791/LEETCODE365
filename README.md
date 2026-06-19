@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0704-binary-search) |
+| [1732-find-the-highest-altitude](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
