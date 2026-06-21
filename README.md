@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,13 +106,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
