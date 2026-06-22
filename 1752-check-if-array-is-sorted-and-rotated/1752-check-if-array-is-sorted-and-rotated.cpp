@@ -2,12 +2,12 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n = nums.size();
-        int x =0;
-        for(int i = 0; i < n ;i++){
-            if(nums[i] > nums[(i+1) % n]){
-                x++;
+         int count = 0;
+        for(int i = 0;i < n  ; i++){
+            if(nums[i]  > nums[ (i+ 1  ) % n]){
+                count++;
             }
         }
-        return x <= 1;
+        return count <=1;
     }
 };
