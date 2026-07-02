@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
