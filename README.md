@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
