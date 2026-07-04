@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3612-process-string-with-special-operations-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
