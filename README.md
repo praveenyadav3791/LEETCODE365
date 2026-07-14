@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
+| [1603-design-parking-system](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1603-design-parking-system) |
 | [3612-process-string-with-special-operations-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+| [1603-design-parking-system](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1603-design-parking-system) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
