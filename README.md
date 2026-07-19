@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0050-powx-n) |
