@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0225-implement-stack-using-queues) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
