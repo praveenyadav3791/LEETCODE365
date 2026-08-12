@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
