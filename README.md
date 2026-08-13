@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+| [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0704-binary-search) |
 | [1732-find-the-highest-altitude](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1732-find-the-highest-altitude) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+| [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
