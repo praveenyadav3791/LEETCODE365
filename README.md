@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 ## Tree
 |  |
