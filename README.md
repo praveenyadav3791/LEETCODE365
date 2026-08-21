@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 ## Greedy
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0225-implement-stack-using-queues) |
 ## Queue
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
