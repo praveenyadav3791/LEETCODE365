@@ -234,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
