@@ -272,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0207-course-schedule) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
