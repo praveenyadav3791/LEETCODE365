@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
+| [1090-largest-values-from-labels](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1090-largest-values-from-labels) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0704-binary-search) |
+| [1090-largest-values-from-labels](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1090-largest-values-from-labels) |
 | [1732-find-the-highest-altitude](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
+| [1090-largest-values-from-labels](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1090-largest-values-from-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -168,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
 | [0475-heaters](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0475-heaters) |
+| [1090-largest-values-from-labels](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1090-largest-values-from-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0229-majority-element-ii) |
+| [1090-largest-values-from-labels](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1090-largest-values-from-labels) |
 | [1603-design-parking-system](https://github.com/praveenyadav3791/LEETCODE365/tree/master/1603-design-parking-system) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/praveenyadav3791/LEETCODE365/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
