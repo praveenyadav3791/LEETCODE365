@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/praveenyadav3791/LEETCODE365/tree/master/0064-minimum-path-sum) |
 ## Tree
 |  |
 | ------- |
